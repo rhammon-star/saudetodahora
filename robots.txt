@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saudetodahora.com.br/sitemap.xml
